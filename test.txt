@@ -1,1 +1,3 @@
 some text
+
+Changes for ticket KAN-5
